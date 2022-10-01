@@ -29,12 +29,13 @@ También soy creador de contenido sobre teclados mecánicos personalizados y tem
 [![JAVA Badge](https://img.shields.io/badge/-JAVA-1D53EE?style=for-the-badge&labelColor=black&logo=CoffeeScript&logoColor=1D53EE)](#) 
 [![C# Badge](https://img.shields.io/badge/-C_Sharp-3C873A?style=for-the-badge&labelColor=black&logo=C&logoColor=3C873A)](#) 
 [![SQL Badge](https://img.shields.io/badge/-SQL-e535ab?style=for-the-badge&labelColor=black&logo=SQLite&logoColor=e535ab)](#)
+[![PHPBadge](https://img.shields.io/badge/-PHP-1DE7EE?style=for-the-badge&labelColor=black&logo=PHP&logoColor=1DE7EE)](#)
 
 
 <br />
 
 #### Business
-- 📎 [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
+- 📎 [My Resume/CV](https://github.com/Almydev/Almydev/blob/main/resumes/CV_YagoAlmeida.pdf)
 - 📧 yagoalmeida.dev@gmail.com
 
 <br /><br />
