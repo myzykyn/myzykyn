@@ -1,8 +1,8 @@
 ## Hola, soy Yago <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-Mi nombre es **Yago Almeida**, aunque también me conocen por **Almydev** , futuro desarrollador de aplicaciones móviles 🚀🪄. Aunque también realizo proyectos como Full Stack Web Developer.
+Mi nombre es **Yago Almeida**, aunque también me conocen por **Almydev** , futuro desarrollador de aplicaciones móviles 🚀🪄. Realizo, en ocasiones, proyectos como Full Stack Web Developer.
 
-También soy creador de contenido sobre teclados mecánicos personalizados y temas relacionados con el mundo de la programación.
+A mayores, soy creador de contenido sobre teclados mecánicos personalizados y temas relacionados con el mundo de la programación.
 
 :mailbox: Contacta conmigo!
 
