@@ -27,7 +27,7 @@ A mayores, soy creador de contenido sobre teclados mecánicos personalizados y t
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
 [![JAVA Badge](https://img.shields.io/badge/-JAVA-1D53EE?style=for-the-badge&labelColor=black&logo=CoffeeScript&logoColor=1D53EE)](#) 
-[![C# Badge](https://img.shields.io/badge/-C_Sharp-3C873A?style=for-the-badge&labelColor=black&logo=C&logoColor=3C873A)](#) 
+[![C# Badge](https://img.shields.io/badge/-C_Sharp-3C873A?style=for-the-badge&labelColor=black&logo=C%20Sharp&logoColor=3C873A)](#) 
 [![SQL Badge](https://img.shields.io/badge/-SQL-e535ab?style=for-the-badge&labelColor=black&logo=SQLite&logoColor=e535ab)](#)
 [![PHPBadge](https://img.shields.io/badge/-PHP-1DE7EE?style=for-the-badge&labelColor=black&logo=PHP&logoColor=1DE7EE)](#)
 
