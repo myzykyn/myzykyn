@@ -12,8 +12,7 @@ A mayores, soy creador de contenido sobre teclados mecánicos personalizados y t
 
 - 🔭 Actualmente estoy trabajando en *@Bimba & Lola* como **It Support Apps**
 - 🤔 Estoy terminando el Ciclo Superior de Desarrollo de Aplicaciones Multiplataforma (DAM)
-- 📤 Puedes encontrarme y hablarme en Discord: __**Almydev#0015**__
-- 😄 Apodos: Almydev, Almy, Yago.
+- 📤 Puedes encontrarme y hablarme en Discord: __**𝗬𝗮𝗴𝗼 𝗔𝗚#5867**__
 - ⚡ Datos de interés: Yo mismo monto teclados mecánicos custom y realizo sesiones de fotos de producto/bodegón.
 <br /><br />
 
