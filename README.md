@@ -39,6 +39,6 @@ A mayores, soy creador de contenido sobre teclados mecánicos personalizados y t
 
 <br /><br />
 
-![Yago's github stats](https://github-readme-stats.vercel.app/api?username=yagoalmg&count_private=true&theme=tokyonight&hide=contribs,prs)
+![Yago's github stats](https://github-readme-stats.vercel.app/api?username=almydev&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 </details>
