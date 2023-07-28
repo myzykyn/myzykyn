@@ -2,7 +2,7 @@
 
 :mailbox: Contact with me!
 
-[![Twitter Badge](https://img.shields.io/badge/-@Yakinzz___-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)]((https://twitter.com/Yakinzz_)) [![Mail Badge](https://img.shields.io/badge/-@Yakinzz-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/almydev/) [![Mail Badge](https://img.shields.io/badge/-yakinz.me-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:yakinzz.me@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@Yakinzz___-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Yakinzz_)] [![Mail Badge](https://img.shields.io/badge/-@Yakinzz-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/almydev/) [![Mail Badge](https://img.shields.io/badge/-yakinz.me-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:yakinzz.me@gmail.com)
 <br /><br />
 #### Top Technologies
 <br />
