@@ -21,7 +21,6 @@
 <br />
 
 #### Business
-- 📎 [My Resume/CV](https://github.com/Almydev/Almydev/blob/main/resumes/CV_YagoAlmeida.pdf)
 - 📧 yakinzz.me@gmail.com
 
 <br /><br />
