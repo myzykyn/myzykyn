@@ -25,6 +25,6 @@
 
 <br /><br />
 
-![Myzy's github stats](https://github-readme-stats.vercel.app/api?username=myzykyn&count_private=true&theme=tokyonight&hide=contribs,prs)
+![Myzy's github stats](https://github-readme-stats.vercel.app/api?username=myzykyn&count_private=true&theme=buefy&hide=contribs,prs)
 
 </details>
