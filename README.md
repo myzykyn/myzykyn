@@ -4,9 +4,6 @@
 - myzykyn@gmail.com
 
 #### My social networks 📱
-[![Threads](https://img.shields.io/badge/myzykyn-000000?style=for-the-badge&logo=Threads&logoColor=white)](https://www.threads.com/@myzy_kyn)
-[![Instagram](https://img.shields.io/badge/myzykyn-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/myzy_kyn/)
-
-![Myzy's github stats](https://github-readme-stats.vercel.app/api?username=myzykyn&count_private=true&theme=buefy&hide=contribs,prs)
+[![X](https://img.shields.io/badge/myzykyn-000000?style=for-the-badge&logo=X&logoColor=white)](https://www.X.com/@myzykyn)
 
 </details>
